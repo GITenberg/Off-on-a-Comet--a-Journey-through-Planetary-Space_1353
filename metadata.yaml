@@ -1,0 +1,34 @@
+_repo: Off-on-a-Comet--a-Journey-through-Planetary-Space_1353
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Jules Gabriel
+    - Verne, Jules Gabriël
+    - Verne, Júlio
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Jules_Verne
+    - http://pt.wikipedia.org/wiki/Júlio_Verne
+    - http://en.wikipedia.org/wiki/Jules_Verne
+description: Translation of Hector Servadac; voyages et aventures
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '1998-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1353'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Science fiction'
+- !lcsh 'Interplanetary voyages -- Fiction'
+- GITenberg
+title: Off on a Comet! a Journey through Planetary Space
+url: http://www.gutenberg.org/ebooks/1353
