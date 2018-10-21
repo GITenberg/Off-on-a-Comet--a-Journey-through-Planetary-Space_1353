@@ -8379,7 +8379,7 @@ memory had failed him.
 
 "Well, then," said the professor, "I must remind you. Taking the
 attraction on the earth as 1, that on Mercury is 1.15, on Venus it
-is.92, on Mars.5, and on Jupiter 2.45; on the moon the attraction is.16,
+is 0.92, on Mars 0.5, and on Jupiter 2.45; on the moon the attraction is 0.16,
 whilst on the surface of the sun a terrestrial kilogramme would weigh 28
 kilogrammes."
 
@@ -9137,7 +9137,7 @@ plane of his orbit, are each of the length of seven terrestrial years.
 Although the light received from the sun is comparatively feeble, the
 nights upon Saturn must be splendid. Eight satellites--Mimas, Enceladus,
 Tethys, Dione, Rhea, Titan, Hyperion, and Japetus--accompany the planet;
-Mimas, the nearest to its primary, rotating on its axis in 221/2 hours,
+Mimas, the nearest to its primary, rotating on its axis in 22 1/2 hours,
 and revolving at a distance of only 120,800 miles, whilst Japetus,
 the most remote, occupies 79 days in its rotation, and revolves at a
 distance of 2,314,000 miles.
